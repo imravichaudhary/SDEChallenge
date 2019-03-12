@@ -10,6 +10,8 @@ Write an interface for a data structure that can provide the moving average of t
 2. Provide an implementation for the interface
 3. Provide any additional explanation about the interface and implementation in a README file.
 
+- [Click here for Coding exercise](./coding-exercise/README.md)
+
 ## Design Question
 
 Design A Google Analytic like Backend System.
@@ -22,3 +24,5 @@ We need to provide Google Analytic like services to our customers. Please provid
 3. Provide metrics to customers with at most one hour delay.
 4. Run with minimum downtime.
 5. Have the ability to reprocess historical data in case of bugs in the processing logic.
+
+- [Click here for Design exercise](./design-exercise/README.md)
